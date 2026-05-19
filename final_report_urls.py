@@ -13,9 +13,9 @@ REPORT_URLS = [
     ],
     [
         "group c",
-        "<name>",
+        "youCanCUs",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://github.com/Anders0106/Devops2026/archive/refs/tags/v1.4.6.zip",
     ],
     [
         "group d",
